@@ -5,3 +5,4 @@ def my_type(el):
     return
 my_type(my_list)
 
+
